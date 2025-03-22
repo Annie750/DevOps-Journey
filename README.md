@@ -2,7 +2,7 @@
 
 Linux Learning Journey 🚀
 📌 About This Repository
-This repository documents my journey of learning Linux as part of my DevOps preparation. I'll be sharing my notes, commands, scripts, and key takeaways from each session.
+This repository documents my journey of learning DevOps preparation. 
 
 📚 Learning Resources
-YouTube Series: Linux for DevOps Beginners
+YouTube
